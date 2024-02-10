@@ -32,7 +32,7 @@
         android:layout_height="104dp"
         android:fontFamily="serif"
         android:text="@string/url_opener"
-        android:textColor="#FFE57F"
+        android:textColor="#FF1744"
         android:textSize="60sp"
         app:layout_constraintBottom_toTopOf="@+id/url"
         app:layout_constraintEnd_toEndOf="parent"
